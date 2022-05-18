@@ -2,7 +2,7 @@ import React from 'react'
 
 export function Boton() {
     function reaccion(){
-        alert("Bienvenido");
+        alert("Recuerda dismunuir el uso de redes sociales")
     }
     return (
         <center>
