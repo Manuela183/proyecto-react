@@ -1,7 +1,12 @@
 import React from 'react'
 
 export function Boton() {
+    function reaccion(){
+        alert("Bienvenido");
+    }
     return (
-        <button type="button" class="btn btn-primary btn-lg btn-block" onclick="reccion()">Clic Aquí</button>
+        <center>
+            <button type="button" class="btn btn-primary btn-lg btn-block" onClick={reaccion}>Clic Aquí</button>
+        </center>
     )
 };
