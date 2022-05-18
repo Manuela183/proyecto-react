@@ -19,8 +19,8 @@ export function Footer() {
             </div>
             <div class="card">
                 <div class="card-body">
-                    <h5 class="card-title">Valentina Tabares</h5>
-                    <p class="card-text">La mejor profesora de UNAL, bonita, inteligente...</p>
+                    <h5 class="card-title">Daniel Diaz</h5>
+                    <p class="card-text">Estudiante promedio</p>
                     <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                 </div>
             </div>
